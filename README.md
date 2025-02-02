@@ -1,4 +1,4 @@
-# Walrus Sites Github Action Example
+# Walrus Site by Vincent
 
 ## [Workflows Setting](https://github.com/marketplace/actions/walrus-sites-ga)
 
