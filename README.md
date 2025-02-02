@@ -7,6 +7,4 @@ LFG BABY, WALRUS ROCKS!
 
 <img src="memewalrus.jpg">
 
-### Secrets
-
 <img src="moonwalrus.jpg">
